@@ -5,4 +5,4 @@ from __future__ import annotations
 
 def stamp() -> str:
     """The stamp of the last loop smoke run that landed, or "" before the first."""
-    return ""
+    return "20261123T113745Z"
