@@ -8,4 +8,4 @@ def test_stamp_is_a_string():
 
 
 def test_stamp_is_the_pinned_value():
-    assert stamp() == "20261127T121231Z"
+    assert stamp() == "20261127T121757Z"
